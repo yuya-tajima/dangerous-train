@@ -1,0 +1,14 @@
+{
+  "name": "dangerous-train",
+  "version": "1.0.0",
+  "description": "This is a vulnerable web application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Yuya Tajima (https://github.com/yuya-tajima/)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.4.0"
+  }
+}
